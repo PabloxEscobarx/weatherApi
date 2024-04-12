@@ -1,0 +1,35 @@
+.top {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.input {
+  border-radius: 14px;
+  padding: 7px;
+  border: none;
+  width: 100%;
+}
+.dropdownList {
+  padding: 5px;
+  background-color: white;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.dropdownList li:hover {
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  color: rgb(67, 100, 100);
+}
+.searchButton {
+  border-radius: 20px;
+  border: none;
+}
+
+.searchButton:hover {
+  cursor: pointer;
+}
+.searchButton img {
+  width: 100%;
+  border-radius: 20px;
+  border: none;
+}

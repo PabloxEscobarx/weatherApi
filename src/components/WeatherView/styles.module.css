@@ -1,0 +1,26 @@
+.noData {
+  text-align: center;
+  margin: 15px 0;
+}
+.checkedCity {
+  margin-top: 15px;
+}
+.top {
+  text-align: center;
+  font-weight: 800;
+  color: white;
+  margin: 10px 0;
+}
+
+.weatherData {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.weatherData div {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  border-radius: 20px;
+  padding: 0 10px;
+}

@@ -1,0 +1,8 @@
+.weatherApp {
+  margin-top: 15vh;
+  padding: 15px;
+  border-radius: 20px;
+  background-color: #3f2bad;
+  min-height: 300px;
+  min-width: 250px;
+}
